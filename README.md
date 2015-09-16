@@ -1,4 +1,4 @@
-ÀÉ®×¬[ºc<br>
+File Structure:<br>
 |<br>
 |<br>
 |-library----------------connect.js<br>
@@ -17,7 +17,7 @@
 |-server.js<br>
 
 
-<br>*example¸Ì­±¦³get,postªº±µ¦¬¸ê®Æ,socket.io(client.html,socket.js),fs(readfile,writefile),routerªº¼gªk
-<br>*¬ÛÃöºô§}:<br>
+<br>*Inside example folder has files teach you how to write get,post,socket.io(client.html,socket.js),fs(readfile,writefile) and router.
+<br>*Related Webpages:<br>
 http://huli.logdown.com/posts/261051-node-js-socketio-to-create-super-simple-chat-room
 <br>http://ccckmit.github.io/webbook/htm/node_form.html
