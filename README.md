@@ -2,17 +2,17 @@
 |<br>
 |<br>
 |-library----------------connect.js<br>
-|　　|----------------txtNote.js<br>
+|　　　|----------------txtNote.js<br>
 |<br>
 |-note-------------------test.txt<br>
 |<br>
 |<br>
 |-static-----------------index.html<br>
-|　　|----------------save.html<br>
-|　　|----------------clientConnect.js<br>
+|　　　|----------------save.html<br>
+|　　　|----------------clientConnect.js<br>
 |<br>
 |-node_modules-----------express<br>
-|　　|----------------socket.io<br>
+|　　　|----------------socket.io<br>
 |<br>
 |-server.js<br>
 
