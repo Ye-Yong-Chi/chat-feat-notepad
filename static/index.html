@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="https://cdn.socket.io/socket.io-1.2.0.js"></script>
+	<script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+	<script src='./static/clientConnect.js'></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+</head>
+<body>
+
+	<div class='row'>
+		<div class='col-md-6'>
+			<ul id="messages"></ul>
+			<input id="m"/>
+			<button id="send">Send</button>
+		</div>
+		<div class='col-md-6'>
+			<form method="POST" action="/save/[[?path?]]">
+				<label>檔案路徑：[[?path?]]</label><br>
+				<textarea name="note" rows='25' cols='60'>[[?fileText?]]      
+				</textarea>
+				<br/>
+				<input type="submit" value="存檔"/>
+			</form>
+		</div>
+	</div>
+</body>
+</html>
