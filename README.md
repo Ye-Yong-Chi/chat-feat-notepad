@@ -1,23 +1,23 @@
-ÀÉ®×¬[ºc<br>
+Ã€Ã‰Â®Ã—Â¬[Âºc<br>
 |<br>
 |<br>
 |-library----------------connect.js<br>
-|		|----------------txtNote.js<br>
+|&npbs&npbs&npbs&npbs|----------------txtNote.js<br>
 |<br>
 |-note-------------------test.txt<br>
 |<br>
 |<br>
 |-static-----------------index.html<br>
-|		|----------------save.html<br>
-|		|----------------clientConnect.js<br>
+|&npbs&npbs&npbs&npbs|----------------save.html<br>
+|&npbs&npbs&npbs&npbs|----------------clientConnect.js<br>
 |<br>
 |-node_modules-----------express<br>
-|		|----------------socket.io<br>
+|&npbs&npbs&npbs&npbs|----------------socket.io<br>
 |<br>
 |-server.js<br>
 
 
-<br>*example¸Ì­±¦³get,postªº±µ¦¬¸ê®Æ,socket.io(client.html,socket.js),fs(readfile,writefile),routerªº¼gªk
-<br>*¬ÛÃöºô§}:<br>
+<br>*exampleÂ¸ÃŒÂ­Â±Â¦Â³get,postÂªÂºÂ±ÂµÂ¦Â¬Â¸ÃªÂ®Ã†,socket.io(client.html,socket.js),fs(readfile,writefile),routerÂªÂºÂ¼gÂªk
+<br>*Â¬Ã›ÃƒÃ¶ÂºÃ´Â§}:<br>
 http://huli.logdown.com/posts/261051-node-js-socketio-to-create-super-simple-chat-room
 <br>http://ccckmit.github.io/webbook/htm/node_form.html
