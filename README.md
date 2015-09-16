@@ -2,17 +2,17 @@
 |<br>
 |<br>
 |-library----------------connect.js<br>
-|&npbs&npbs&npbs&npbs|----------------txtNote.js<br>
+|　　　　|----------------txtNote.js<br>
 |<br>
 |-note-------------------test.txt<br>
 |<br>
 |<br>
 |-static-----------------index.html<br>
-|&npbs&npbs&npbs&npbs|----------------save.html<br>
-|&npbs&npbs&npbs&npbs|----------------clientConnect.js<br>
+|　　　　|----------------save.html<br>
+|　　　　|----------------clientConnect.js<br>
 |<br>
 |-node_modules-----------express<br>
-|&npbs&npbs&npbs&npbs|----------------socket.io<br>
+|　　　　|----------------socket.io<br>
 |<br>
 |-server.js<br>
 
